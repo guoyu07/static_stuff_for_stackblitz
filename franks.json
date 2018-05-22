@@ -1,0 +1,24 @@
+{
+  "franks": [
+    {
+      "name": "some frank name",
+      "url": "https://raw.githubusercontent.com/orieken/static_stuff_for_stackblitz/master/frank/frank.jpg"
+    },
+    {
+      "name": "frank number 2",
+      "url": "https://raw.githubusercontent.com/orieken/static_stuff_for_stackblitz/master/frank/frank2.jpg"
+    },
+    {
+      "name": "frank number 3",
+      "url": "https://raw.githubusercontent.com/orieken/static_stuff_for_stackblitz/master/frank/frank3.jpg"
+    },
+    {
+      "name": "frank number 4",
+      "url": "https://raw.githubusercontent.com/orieken/static_stuff_for_stackblitz/master/frank/frank4.jpg"
+    },
+    {
+      "name": "frank number 5",
+      "url": "https://raw.githubusercontent.com/orieken/static_stuff_for_stackblitz/master/frank/frank5.jpg"
+    }
+  ]
+}
